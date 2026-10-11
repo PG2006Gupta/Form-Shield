@@ -1,7 +1,9 @@
+
 {
-  "description": "Track scholarships, internships, and admissions effortlessly with an AI-powered dashboard that ensures you never miss deadlines or required documents.",
+  "title": "FormShield | Smart Application Assistant",
+  "description": "FormShield uses AI-powered assistance to simplify applications for scholarships, internships, admissions, and more.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
