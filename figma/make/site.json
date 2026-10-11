@@ -1,0 +1,10 @@
+{
+  "description": "Track scholarships, internships, and admissions effortlessly with an AI-powered dashboard that ensures you never miss deadlines or required documents.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
